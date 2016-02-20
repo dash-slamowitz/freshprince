@@ -1,0 +1,17 @@
+h1 {
+	color: red;
+	font-style: bold;
+	text-align: center;
+	font-family: courier 
+}
+
+p {
+	color: green;
+	text-align: center;
+	font-family: georgia
+}
+
+body {
+	background-color: black
+
+}
